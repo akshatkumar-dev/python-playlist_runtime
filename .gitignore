@@ -1,2 +1,6 @@
 /pyvenv.cfg
 /Include
+/__pycache__
+/build
+/dist
+/playlist_runtime.spec
