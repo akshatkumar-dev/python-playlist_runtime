@@ -45,7 +45,7 @@ while(1):
                     for i in secondArray:
                         sum+=i
                 except:
-                    print("Error occured please report")
+                    pass
             print("Output format: x days HH:MM:SS")
             print(str(datetime.timedelta(seconds=sum))) # print the converted output 
         except:
